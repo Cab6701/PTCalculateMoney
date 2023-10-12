@@ -57,7 +57,9 @@
 	  <PackageReference Include="Realm" Version="11.5.0" />
 	</ItemGroup>
 	<ItemGroup>
-	  <Folder Include="NewFolder\" />
+	  <Folder Include="Models\" />
+	  <Folder Include="ViewModels\" />
+	  <Folder Include="Views\" />
 	</ItemGroup>
 
 </Project>
