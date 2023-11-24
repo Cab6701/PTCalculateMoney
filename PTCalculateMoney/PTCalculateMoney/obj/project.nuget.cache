@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9ugr16FeMi7V0o1c69QX7JRemfLerH44Vl0ocJ0Yf/5VoMoVU9m7LN1an+nkw/zC0fH43ZagvJdNYHhIPguHkQ==",
+  "dgSpecHash": "oCtDLjCujwlL7ikzWHUPbE6ct2po44Vy9CWjUp5veHCAJ2hbmc9sX93hKPZifLvA2NLPvU1kW85JpuoqlevnvQ==",
   "success": true,
   "projectFilePath": "E:\\PTCalculateMoney\\PTCalculateMoney\\PTCalculateMoney\\PTCalculateMoney.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trinh\\.nuget\\packages\\communitytoolkit.maui\\6.0.0\\communitytoolkit.maui.6.0.0.nupkg.sha512",
     "C:\\Users\\trinh\\.nuget\\packages\\communitytoolkit.maui.core\\6.0.0\\communitytoolkit.maui.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\ffimageloadingcompat\\0.1.1\\ffimageloadingcompat.0.1.1.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\ffimageloadingcompat.maui\\0.1.1\\ffimageloadingcompat.maui.0.1.1.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\ffimageloadingcompat.transformations\\0.1.1\\ffimageloadingcompat.transformations.0.1.1.nupkg.sha512",
     "C:\\Users\\trinh\\.nuget\\packages\\fody\\6.8.0\\fody.6.8.0.nupkg.sha512",
     "C:\\Users\\trinh\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\trinh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

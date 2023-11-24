@@ -1,5 +1,8 @@
 CommunityToolkit.Maui.Core.dll
 CommunityToolkit.Maui.dll
+FFImageLoading.Compat.dll
+FFImageLoading.Compat.Maui.dll
+FFImageLoading.Compat.Transformations.dll
 GoogleGson.dll
 Microsoft.Maui.Controls.Compatibility.dll
 Microsoft.Maui.Controls.dll
@@ -153,6 +156,9 @@ gifdecoder.aar
 glide.aar
 CommunityToolkit.Maui.Core.aar
 CommunityToolkit.Maui.aar
+FFImageLoading.Compat.aar
+FFImageLoading.Compat.Maui.aar
+FFImageLoading.Compat.Transformations.aar
 GoogleGson.aar
 Microsoft.Maui.Controls.aar
 Microsoft.Maui.Controls.Compatibility.aar

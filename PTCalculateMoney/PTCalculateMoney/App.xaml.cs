@@ -1,4 +1,6 @@
-﻿namespace PTCalculateMoney
+﻿using PTCalculateMoney.Views;
+
+namespace PTCalculateMoney
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new HomePage();
         }
     }
 }

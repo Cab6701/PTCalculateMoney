@@ -31,6 +31,52 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -2243,6 +2289,52 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -4354,6 +4446,52 @@
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
             "related": ".aar;.xml"
           }
         }
@@ -6473,6 +6611,52 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -8588,6 +8772,52 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -10699,6 +10929,52 @@
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
             "related": ".aar;.xml"
           }
         }
@@ -12820,6 +13096,52 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -14931,6 +15253,52 @@
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll": {
             "related": ".aar;.xml"
           }
         }
@@ -17050,6 +17418,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -18743,6 +19145,40 @@
           "lib/net7.0-ios16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -20518,6 +20954,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -22289,6 +22759,40 @@
           "lib/net7.0-ios16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -24064,6 +24568,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -25835,6 +26373,40 @@
           "lib/net7.0-ios16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -27612,6 +28184,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -29383,6 +29989,40 @@
           "lib/net7.0-ios16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -31166,6 +31806,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -32859,6 +33533,40 @@
           "lib/net7.0-maccatalyst16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -34634,6 +35342,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -36405,6 +37147,40 @@
           "lib/net7.0-maccatalyst16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -38180,6 +38956,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -39951,6 +40761,40 @@
           "lib/net7.0-maccatalyst16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -41728,6 +42572,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -43499,6 +44377,40 @@
           "lib/net7.0-maccatalyst16.1/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -45283,6 +46195,40 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -47131,6 +48077,40 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -49025,6 +50005,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -50915,6 +51929,40 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -52809,6 +53857,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -54699,6 +55781,40 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -56595,6 +57711,40 @@
           }
         }
       },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        }
+      },
       "Fody/6.8.0": {
         "type": "package",
         "build": {
@@ -58485,6 +59635,40 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FFImageLoadingCompat/0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Maui/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1",
+          "FFImageLoadingCompat.Transformations": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll": {}
+        }
+      },
+      "FFImageLoadingCompat.Transformations/0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "FFImageLoadingCompat": "0.1.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll": {}
         }
       },
       "Fody/6.8.0": {
@@ -60415,6 +61599,58 @@
         "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.xml",
         "lib/net7.0/CommunityToolkit.Maui.Core.dll",
         "lib/net7.0/CommunityToolkit.Maui.Core.xml"
+      ]
+    },
+    "FFImageLoadingCompat/0.1.1": {
+      "sha512": "obcy9k+rSNHZ1Z93f5ygq1FZZAjiZ5edpSmz9TpkhjxdkySVH6LeQltAX+HuiL+8hEvYm8IX10IAIIlj0lT15w==",
+      "type": "package",
+      "path": "ffimageloadingcompat/0.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ffimageloadingcompat.0.1.1.nupkg.sha512",
+        "ffimageloadingcompat.nuspec",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.aar",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.dll",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.xml",
+        "lib/net7.0-ios16.1/FFImageLoading.Compat.dll",
+        "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.dll",
+        "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.dll",
+        "lib/net7.0/FFImageLoading.Compat.dll"
+      ]
+    },
+    "FFImageLoadingCompat.Maui/0.1.1": {
+      "sha512": "WOKBAazENn54pjSjzpl+tu7K7ECVFmDjLNiEIMixxmEVt0/nsbLsz7NP64yl3yn5S0HgFhKdH3ylgwFVDCe7Yw==",
+      "type": "package",
+      "path": "ffimageloadingcompat.maui/0.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ffimageloadingcompat.maui.0.1.1.nupkg.sha512",
+        "ffimageloadingcompat.maui.nuspec",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.aar",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.dll",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.Maui.xml",
+        "lib/net7.0-ios16.1/FFImageLoading.Compat.Maui.dll",
+        "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Maui.dll",
+        "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Maui.dll"
+      ]
+    },
+    "FFImageLoadingCompat.Transformations/0.1.1": {
+      "sha512": "d3MFJrgL4LdFMl50yJjwDKEtejC8GBNbUSKdm67Qc2d3yDTSpfoK8RGh2l4cxXBfq13efKOyLqdIZ4HMTmQfJA==",
+      "type": "package",
+      "path": "ffimageloadingcompat.transformations/0.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ffimageloadingcompat.transformations.0.1.1.nupkg.sha512",
+        "ffimageloadingcompat.transformations.nuspec",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.aar",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.dll",
+        "lib/net7.0-android33.0/FFImageLoading.Compat.Transformations.xml",
+        "lib/net7.0-ios16.1/FFImageLoading.Compat.Transformations.dll",
+        "lib/net7.0-maccatalyst16.1/FFImageLoading.Compat.Transformations.dll",
+        "lib/net7.0-windows10.0.19041/FFImageLoading.Compat.Transformations.dll"
       ]
     },
     "Fody/6.8.0": {
@@ -67824,6 +69060,8 @@
     "net7.0-android33.0": [
       "CommunityToolkit.Maui >= 6.0.0",
       "CommunityToolkit.Maui.Core >= 6.0.0",
+      "FFImageLoadingCompat >= 0.1.1",
+      "FFImageLoadingCompat.Maui >= 0.1.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -67846,6 +69084,8 @@
     "net7.0-ios16.1": [
       "CommunityToolkit.Maui >= 6.0.0",
       "CommunityToolkit.Maui.Core >= 6.0.0",
+      "FFImageLoadingCompat >= 0.1.1",
+      "FFImageLoadingCompat.Maui >= 0.1.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -67857,6 +69097,8 @@
     "net7.0-maccatalyst16.1": [
       "CommunityToolkit.Maui >= 6.0.0",
       "CommunityToolkit.Maui.Core >= 6.0.0",
+      "FFImageLoadingCompat >= 0.1.1",
+      "FFImageLoadingCompat.Maui >= 0.1.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -67868,6 +69110,8 @@
     "net7.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 6.0.0",
       "CommunityToolkit.Maui.Core >= 6.0.0",
+      "FFImageLoadingCompat >= 0.1.1",
+      "FFImageLoadingCompat.Maui >= 0.1.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -67947,6 +69191,14 @@
           "CommunityToolkit.Maui.Core": {
             "target": "Package",
             "version": "[6.0.0, )"
+          },
+          "FFImageLoadingCompat": {
+            "target": "Package",
+            "version": "[0.1.1, )"
+          },
+          "FFImageLoadingCompat.Maui": {
+            "target": "Package",
+            "version": "[0.1.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -68078,6 +69330,14 @@
             "target": "Package",
             "version": "[6.0.0, )"
           },
+          "FFImageLoadingCompat": {
+            "target": "Package",
+            "version": "[0.1.1, )"
+          },
+          "FFImageLoadingCompat.Maui": {
+            "target": "Package",
+            "version": "[0.1.1, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -68152,6 +69412,14 @@
           "CommunityToolkit.Maui.Core": {
             "target": "Package",
             "version": "[6.0.0, )"
+          },
+          "FFImageLoadingCompat": {
+            "target": "Package",
+            "version": "[0.1.1, )"
+          },
+          "FFImageLoadingCompat.Maui": {
+            "target": "Package",
+            "version": "[0.1.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -68228,6 +69496,14 @@
           "CommunityToolkit.Maui.Core": {
             "target": "Package",
             "version": "[6.0.0, )"
+          },
+          "FFImageLoadingCompat": {
+            "target": "Package",
+            "version": "[0.1.1, )"
+          },
+          "FFImageLoadingCompat.Maui": {
+            "target": "Package",
+            "version": "[0.1.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
