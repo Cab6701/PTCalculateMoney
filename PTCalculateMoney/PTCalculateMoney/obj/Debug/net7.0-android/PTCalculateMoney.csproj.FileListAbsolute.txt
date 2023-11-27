@@ -998,3 +998,4 @@ E:\PTCalculateMoney\PTCalculateMoney\PTCalculateMoney\obj\Debug\net7.0-android\a
 E:\PTCalculateMoney\PTCalculateMoney\PTCalculateMoney\obj\Debug\net7.0-android\android\src\crc64384fc3993c9794e4\FFBitmapDrawable.java
 E:\PTCalculateMoney\PTCalculateMoney\PTCalculateMoney\obj\Debug\net7.0-android\android\src\crc64384fc3993c9794e4\SelfDisposingBitmapDrawable.java
 E:\PTCalculateMoney\PTCalculateMoney\PTCalculateMoney\obj\Debug\net7.0-android\android\src\crc647ad1e5ccf2228e96\LRUCache.java
+E:\PTCalculateMoney\PTCalculateMoney\PTCalculateMoney\obj\Debug\net7.0-android\resizetizer\r\drawable\pt_app_logo.jpg

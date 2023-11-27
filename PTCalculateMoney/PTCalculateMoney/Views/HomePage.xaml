@@ -11,83 +11,93 @@
             </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
-    <Grid RowDefinitions="3*,7*">
-        <Label
-            FontAttributes="Bold"
-            FontSize="24"
-            HorizontalOptions="CenterAndExpand"
-            Text="Tạp Hoá Phương Thuý"
-            VerticalOptions="CenterAndExpand" />
-        <Grid
-            Grid.Row="1"
-            Margin="0,30,0,0"
-            FlexLayout.Basis="30"
-            RowDefinitions="*"
-            RowSpacing="20">
-            <FlexLayout
-                AlignContent="SpaceEvenly"
-                Direction="Column"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Basis="Auto"
-                JustifyContent="Start">
-                <Border
-                    HeightRequest="200"
-                    Stroke="Orange"
-                    StrokeShape="RoundRectangle 20"
-                    StrokeThickness="10">
-                    <Grid Margin="0,10" RowDefinitions="8*,2*">
-                        <Label
-                            FontFamily="Solid"
-                            FontSize="32"
-                            HorizontalOptions="CenterAndExpand"
-                            HorizontalTextAlignment="Center"
-                            Text="&#xf1ec;"
-                            TextColor="Orange"
-                            VerticalOptions="FillAndExpand"
-                            VerticalTextAlignment="Center" />
-                        <Grid Grid.Row="1">
-                            <Label HorizontalTextAlignment="Center" Text="Lập hoá đơn" />
-                        </Grid>
-                    </Grid>
-                </Border>
-                <Border
-                    Stroke="Orange"
-                    StrokeShape="RoundRectangle 20"
-                    StrokeThickness="10">
-                    <Grid Margin="0,10" RowDefinitions="8*,2*">
-                        <Label
-                            FontFamily="Solid"
-                            FontSize="32"
-                            HorizontalOptions="CenterAndExpand"
-                            HorizontalTextAlignment="Center"
-                            Text="&#xf1ec;"
-                            TextColor="Orange"
-                            VerticalOptions="FillAndExpand"
-                            VerticalTextAlignment="Center" />
-                        <Grid Grid.Row="1">
-                            <Label HorizontalOptions="Center" Text="Doanh thu" />
-                        </Grid>
-                    </Grid>
-                </Border>
-                <Border
-                    Stroke="Orange"
-                    StrokeShape="RoundRectangle 20"
-                    StrokeThickness="10">
-                    <Grid Margin="0,10" RowDefinitions="8*,2*">
-                        <Label
-                            FontFamily="Solid"
-                            FontSize="32"
-                            HorizontalOptions="CenterAndExpand"
-                            HorizontalTextAlignment="Center"
-                            Text="&#xf1ec;"
-                            TextColor="Orange"
-                            VerticalTextAlignment="Center" />
-                        <Grid Grid.Row="1">
-                            <Label HorizontalOptions="Center" Text="Thêm sản phẩm" />
-                        </Grid>
-                    </Grid>
-                </Border>
-            </FlexLayout>
+    <Grid RowDefinitions="2*,8*" RowSpacing="20">
+        <Grid RowDefinitions="Auto,*">
+            <Label
+                FontAttributes="Bold"
+                FontSize="24"
+                HorizontalOptions="CenterAndExpand"
+                HorizontalTextAlignment="Center"
+                Text="Phuong Thuy Grocery Store"
+                VerticalOptions="CenterAndExpand" />
+            <Image Grid.Row="1" Source="pt_app_logo.jpg" />
         </Grid>
+        <StackLayout
+            Grid.Row="1"
+            HorizontalOptions="FillAndExpand"
+            Spacing="15"
+            VerticalOptions="FillAndExpand">
+            <Line BackgroundColor="LightGray" HeightRequest="1" />
+            <StackLayout Spacing="10">
+                <Border
+                    BackgroundColor="ForestGreen"
+                    HeightRequest="100"
+                    Stroke="ForestGreen"
+                    StrokeShape="RoundRectangle 50"
+                    WidthRequest="100">
+                    <Label
+                        FontFamily="Solid"
+                        FontSize="32"
+                        HorizontalOptions="CenterAndExpand"
+                        HorizontalTextAlignment="Center"
+                        Text="&#xf1ec;"
+                        TextColor="White"
+                        VerticalOptions="FillAndExpand"
+                        VerticalTextAlignment="Center" />
+                </Border>
+                <Grid>
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalTextAlignment="Center"
+                        Text="Lập hoá đơn" />
+                </Grid>
+            </StackLayout>
+            <Line BackgroundColor="LightGray" HeightRequest="1" />
+            <StackLayout>
+                <Frame BorderColor="Orange" CornerRadius="10">
+                    <Grid
+                        Grid.Column="1"
+                        Margin="0,10"
+                        RowDefinitions="8*,2*">
+                        <Label
+                            FontFamily="Solid"
+                            FontSize="32"
+                            HorizontalOptions="CenterAndExpand"
+                            HorizontalTextAlignment="Center"
+                            Text="&#xf1ec;"
+                            TextColor="Orange"
+                            VerticalOptions="FillAndExpand"
+                            VerticalTextAlignment="Center" />
+                        <Grid Grid.Row="1">
+                            <Label HorizontalTextAlignment="Center" Text="Doanh thu" />
+                        </Grid>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+            <Line BackgroundColor="LightGray" HeightRequest="1" />
+            <StackLayout>
+                <Frame BorderColor="Orange" CornerRadius="10">
+                    <Grid
+                        Grid.Column="1"
+                        Margin="0,10"
+                        RowDefinitions="8*,2*">
+                        <Label
+                            FontFamily="Solid"
+                            FontSize="32"
+                            HorizontalOptions="CenterAndExpand"
+                            HorizontalTextAlignment="Center"
+                            Text="&#xf1ec;"
+                            TextColor="Orange"
+                            VerticalOptions="FillAndExpand"
+                            VerticalTextAlignment="Center" />
+                        <Grid Grid.Row="1">
+                            <Label HorizontalTextAlignment="Center" Text="Thêm sản phẩm" />
+                        </Grid>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+            <Line BackgroundColor="LightGray" HeightRequest="1" />
+        </StackLayout>
     </Grid>
 </ContentPage>
