@@ -1,5 +1,6 @@
 ﻿using FFImageLoading.Maui;
 using Microsoft.Extensions.Logging;
+using Camera.MAUI;
 
 namespace PTCalculateMoney
 {
@@ -10,6 +11,7 @@ namespace PTCalculateMoney
             var builder = MauiApp.CreateBuilder();
             MauiAppBuilder mauiAppBuilder = builder
                 .UseMauiApp<App>()
+                .UseMauiCameraView()
                 .UseFFImageLoading()
                 .ConfigureFonts(fonts =>
                 {

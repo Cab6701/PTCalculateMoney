@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="PTCalculateMoney.Views.BillCalculatorPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:cv="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
+    Title="BillCalculatorPage">
+    <StackLayout>
+        <Grid BackgroundColor="GreenYellow" HeightRequest="100">
+            <!--<cv:CameraView
+                x:Name="cameraView"
+                AutoStartPreview="False"
+                BarCodeDetectionEnabled="True"
+                BarcodeDetected="cameraView_BarcodeDetected"
+                CamerasLoaded="cameraView_CamerasLoaded"
+                HeightRequest="100"
+                HorizontalOptions="Fill" />-->
+        </Grid>
+        <CollectionView VerticalOptions="FillAndExpand">
+            <CollectionView.Header>
+                <Grid ColumnDefinitions="*,*,*,*,*,*,*">
+                    <Label Text="STT" />
+                    <Label Grid.Column="1" Text="Mã sản phẩm" />
+                    <Label Grid.Column="2" Text="Tên sản phẩm" />
+                    <Label Grid.Column="3" Text="Đơn vị tính" />
+                    <Label Grid.Column="4" Text="Số lượng" />
+                    <Label Grid.Column="5" Text="Đơn giá" />
+                    <Label Grid.Column="6" Text="Thành tiền" />
+                </Grid>
+            </CollectionView.Header>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="*,*,*,*,*,*,*">
+                        <Label Text="1" />
+                        <Label Grid.Column="1" Text="045836748354" />
+                        <Label Grid.Column="2" Text="Mì tôm Hảo Hảo" />
+                        <Label Grid.Column="3" Text="Gói" />
+                        <Label Grid.Column="4" Text="2" />
+                        <Label Grid.Column="5" Text="4.000" />
+                        <Label Grid.Column="6" Text="8.000" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Grid
+            BackgroundColor="GreenYellow"
+            RowDefinitions="*,*"
+            VerticalOptions="End">
+            <Label Text="Tổng sản phẩm: 30" />
+            <Label Grid.Row="1" Text="Tổng tiền: 30.000.000 (Ba mươi triệu đồng)" />
+        </Grid>
+    </StackLayout>
+</ContentPage>
